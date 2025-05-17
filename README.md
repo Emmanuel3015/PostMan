@@ -1,0 +1,1 @@
+A RESTful API built with Node.js, Express, and Mongoose to perform CRUD (Create, Read, Update, Delete) operations on user data stored in MongoDB. Designed for managing user records with basic user information.
